@@ -10,7 +10,6 @@
     "[databases-used]",
     "[apis-or-libraries-integrated]"
   ],
-  "status": "[stalled-or-abandoned-or-built]",
   "stall_reason": "[reason-why-project-stalled]",
   "status_details": "[detailed-explanation-of-the-roadblock]",
   "original_repo": "[url-to-original-repository]",
