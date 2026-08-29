@@ -1,1 +1,21 @@
+{
+  "id": "[team-name]-[team-leader-github-username]",
+  "title": "[project-name]",
+  "hackathon": "[hackathon-name]",
+  "track/domain": "[track-or-domain-name]",
+  "description": "[your-project-description]",
+  "tech_stack": [
+    "[frontend-frameworks]",
+    "[backend-languages]",
+    "[databases-used]",
+    "[apis-or-libraries-integrated]"
+  ],
+  "status": "[stalled-or-abandoned-or-built]",
+  "stall_reason": "[reason-why-project-stalled]",
+  "status_details": "[detailed-explanation-of-the-roadblock]",
+  "original_repo": "[url-to-original-repository]",
+  "open_for_collaboration": "[true-or-false]",
+  "contact_method": "[email-or-phone-number]"
+}
+
 
