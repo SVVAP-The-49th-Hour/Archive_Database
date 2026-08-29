@@ -1,19 +1,19 @@
 {
-  "id": "the-49th-hour-vaibhav-sharma",
+  "id": "svvap-vaibhav-sharma",
   "title": "The 49th Hour",
-  "hackathon": "DevJams 2026",
-  "track/domain": "",
-  "description": "",
+  "hackathon": "Devjams 2026",
+  "track/domain": "[track-or-domain-name]",
+  "description": "[your-project-description]",
   "tech_stack": [
-    "",
-    "",
-    "",
-    ""
+    "[frontend-frameworks]",
+    "[backend-languages]",
+    "[databases-used]",
+    "[apis-or-libraries-integrated]"
   ],
-  "status": "building",
-  "stall_reason": "none",
-  "status_details": "",
-  "original_repo": "",
-  "open_for_collaboration": "",
-  "contact_method": ""
+  "status": "[stalled-or-abandoned-or-built]",
+  "stall_reason": "[reason-why-project-stalled]",
+  "status_details": "[detailed-explanation-of-the-roadblock]",
+  "original_repo": "[url-to-original-repository]",
+  "open_for_collaboration": "[true-or-false]",
+  "contact_method": "[email-or-phone-number]"
 }
